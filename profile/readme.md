@@ -2,7 +2,7 @@
 
 Velvet Tiger is a venture foundry and development studio in Australia.
 
-(https://velvettiger.com.au/)
+https://velvettiger.com.au/
 
 ## Some of our projects...
 
