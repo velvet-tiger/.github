@@ -6,7 +6,7 @@ https://velvettiger.com.au/
 
 ## Some of our projects...
 
-https://automaton-labs builds technology for AI software development.
+https://github.com/automaton-labs builds technology for AI software development.
 
 [https://runbeam.io](https://runbeam.io) is an orchestration platform for creating data meshes, API gateways, and other data nets using Harmony, our open source proxy application.
 
