@@ -6,9 +6,7 @@ https://velvettiger.com.au/
 
 ## Some of our projects...
 
-[https://tryautomatic.app](https://tryautomatic.app) helps developers manage skills, servers and project instructions across AI projects (see also [https://github.com/velvet-tiger/automatic](https://github.com/velvet-tiger/automatic))
-
-[https://github.com/velvet-tiger/skill.json](https://github.com/velvet-tiger/skill.json) is a proposal for a standard AI skills manifest
+https://automaton-labs builds technology for AI software development.
 
 [https://runbeam.io](https://runbeam.io) is an orchestration platform for creating data meshes, API gateways, and other data nets using Harmony, our open source proxy application.
 
