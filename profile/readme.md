@@ -6,7 +6,9 @@ https://velvettiger.com.au/
 
 ## Some of our projects...
 
-https://github.com/automaton-labs builds technology for AI software development.
+[Automatic](https://github.com/velvet-tiger/automatic) helps you organise instructions, skills, docs, rules and other context across agents and projects.
+
+[skill.json](https://github.com/velvet-tiger/skill.json) is our proposal for making Agent skills discoverable and manageable.
 
 [https://runbeam.io](https://runbeam.io) is an orchestration platform for creating data meshes, API gateways, and other data nets using Harmony, our open source proxy application.
 
