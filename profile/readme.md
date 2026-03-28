@@ -12,6 +12,8 @@ https://velvettiger.com.au/
 
 [Common Docs](https://github.com/velvet-tiger/common-docs) provides a standardised project documentation structure and paired skills for LLM use.
 
+The [AI Readiness Framework](https://github.com/velvet-tiger/ai-readiness-framework) is a tool to help you prepare repositories for use with AI, especially legacy codebases.
+
 [https://runbeam.io](https://runbeam.io) is an orchestration platform for creating data meshes, API gateways, and other data nets using Harmony, our open source proxy application.
 
 [https://aurabox.cloud](https://aurabox.cloud) is a cloud-based, medical imaging storage and viewing platform which allows doctors to access a patient’s entire imaging history on one platform, regardless of where imaging was obtained.
