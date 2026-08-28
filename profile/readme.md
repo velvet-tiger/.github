@@ -20,7 +20,7 @@ Open-source tools for working with AI coding agents.
 
 ## Portfolio Companies
 
-- [Runbeam](https://runbeam.io) is an orchestration platform for building data meshes and API gateways on Harmony, our open-source proxy.
-- [Aurabox](https://aurabox.cloud) is a cloud platform for storing and viewing medical imaging. It gives doctors a patient's full imaging history in one place, regardless of where the imaging was done.
+- [Runbeam](https://runbeam.io) is an orchestration platform for building data meshes and API gateways on Harmony, an open-source HTTP/3 data-mesh proxy.
+- [Aurabox](https://aurabox.cloud) is a cloud platform for storing and viewing medical imaging.
 
 Open-source code for Runbeam and Aurabox is at [github.com/aurabx](https://github.com/aurabx).
