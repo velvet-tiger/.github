@@ -2,20 +2,22 @@
 
 Velvet Tiger is a venture foundry and development studio in Australia.
 
-https://velvettiger.com.au/
+Website: [velvettiger.com.au](https://velvettiger.com.au/)
 
-## Some of our projects...
+## Agent tooling
 
-[Automatic](https://github.com/velvet-tiger/automatic) helps you organise instructions, skills, docs, rules and other context across agents and projects.
+Open-source tools for working with AI coding agents.
 
-[skill.json](https://github.com/velvet-tiger/skill.json) is our proposal for making Agent skills discoverable and manageable.
+- [Automatic](https://github.com/velvet-tiger/automatic) organises instructions, skills, docs, rules and other context across agents and projects.
+- [skill.json](https://github.com/velvet-tiger/skill.json) is a proposed metadata format for making agent skills discoverable and manageable.
+- [Common Docs](https://github.com/velvet-tiger/common-docs) is a standard project documentation structure with paired skills for LLM use.
+- [AI Readiness Framework](https://github.com/velvet-tiger/ai-readiness-framework) helps you prepare repositories, especially legacy codebases, for AI agent work.
+- [Portly](https://github.com/velvet-tiger/portly) is a small CLI that finds and stops local development services started by AI agents.
 
-[Common Docs](https://github.com/velvet-tiger/common-docs) provides a standardised project documentation structure and paired skills for LLM use.
+## Products
 
-The [AI Readiness Framework](https://github.com/velvet-tiger/ai-readiness-framework) is a tool to help you prepare repositories for use with AI, especially legacy codebases.
+- [Kelpie CRM](https://github.com/velvet-tiger/kelpie) is a free, AI-native CRM for startups.
+- [Runbeam](https://runbeam.io) is an orchestration platform for building data meshes and API gateways on Harmony, our open-source proxy.
+- [Aurabox](https://aurabox.cloud) is a cloud platform for storing and viewing medical imaging. It gives doctors a patient's full imaging history in one place, regardless of where the imaging was done.
 
-[https://runbeam.io](https://runbeam.io) is an orchestration platform for creating data meshes, API gateways, and other data nets using Harmony, our open source proxy application.
-
-[https://aurabox.cloud](https://aurabox.cloud) is a cloud-based, medical imaging storage and viewing platform which allows doctors to access a patient’s entire imaging history on one platform, regardless of where imaging was obtained.
-
-Aurabox and Runbeam's open-source contributions can be found at https://github.com/aurabx.
+Open-source code for Runbeam and Aurabox is at [github.com/aurabx](https://github.com/aurabx).
