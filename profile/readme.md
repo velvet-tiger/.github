@@ -10,7 +10,7 @@ Open-source tools for working with AI coding agents.
 
 - [Automatic](https://github.com/velvet-tiger/automatic) organises instructions, skills, docs, rules and other context across agents and projects.
 - [skill.json](https://github.com/velvet-tiger/skill.json) is a proposed metadata format for making agent skills discoverable and manageable.
-- [Common Docs](https://github.com/velvet-tiger/common-docs) is a standard project documentation structure with paired skills for LLM use.
+- [Common Docs](https://velvet-tiger.github.io/common-docs/) is a standard project documentation structure with paired skills for LLM use.
 - [AI Readiness Framework](https://github.com/velvet-tiger/ai-readiness-framework) helps you prepare repositories, especially legacy codebases, for AI agent work.
 - [Portly](https://github.com/velvet-tiger/portly) is a small CLI that finds and stops local development services started by AI agents.
 
